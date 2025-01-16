@@ -71,7 +71,7 @@ model = Transformer(
     END_TOKEN=END_TOKEN,
     PADDING_TOKEN=PADDING_TOKEN
 )
-
+```
 ## Key Functions and Classes
 
 ### `scaled_dot_product(q, k, v, mask=None)`
